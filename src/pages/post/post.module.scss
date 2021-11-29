@@ -1,1 +1,20 @@
 // TODO
+.post {
+  max-width: 700px;
+
+  .content {
+    margin-top: 64px;
+    font-size: 18px;
+    line-height: 25.2px;
+    text-align: justify;
+  }
+}
+.banner {
+  margin: 0 auto;
+  max-width: 1440px;
+
+  img {
+    width: 1440px;
+    height: 400px;
+  }
+}
